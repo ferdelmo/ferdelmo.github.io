@@ -10,15 +10,15 @@ Our work present a method to edit image with polarized light, together with a ca
 <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div class="column">
         <h3>Original image</h3>
-        <img src="images/cielo/cubo.jpg">
+        <figcaption>Original image</figcaption>
     </div>
     <div class="column">
-        <h3>Luminance maximization per pixel</h3>
         <img src="images/cielo/LumLMax.jpg">
+        <figcaption>Luminance maximization per pixel</figcaption>
     </div>
     <div class="column">
-        <h3>Luminance maximization per pixel</h3>
         <img src="images/cielo/LumLMin.jpg">
+        <figcaption>Luminance minimization per pixel</figcaption>
     </div>
 </div>
 
