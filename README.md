@@ -1,3 +1,35 @@
+
+## Polarization Mapping
+This is a project derived from my TFG in the Universidad de Zaragoza under the suppervision of Adolfo Muñoz. Our work ends up in an invetigation paper called **Polarization Mapping**, wich was presented in the Spanish Congress of Computer Graphics(CEIG2019). The paper was selected as **best paper of the Spanish Conference on Computer Graphics 2019 (CEIG2019)** and was **published through the Computers & Graphics** track of the Spanish Conference on Computer Graphics 2019 (CEIG2019).
+
+Our work present a method to edit image with polarized light, together with a capture method. The main idea of the work is to modify the polarization of an image as a post-process effect, simlarly to tone mapping with HDR. Our method allow different types of filters. First of all it allows to reproduce any polarizing filter existing in hardware and even create software filters that are hardly reproduce by hardware. We also present two kinds of filters to maximize (or minimize) different image parameters, luminance, saturation and contrast. These filters can be applied with two approach, global filters, that basically select the best linear polarizer to maximize that parameter. And local filters, that apply a different linear polarizer per pixel to maximize the parameter. The local approach generate results that are imposible to reproduce by hardware and allows intersting effects, like minimizing the reflects on any surface in the image.
+
+[Project page](http://giga.cps.unizar.es/~amunoz/projects/CG2019_polarization/)
+
+[DOI](https://doi.org/10.1016/j.cag.2019.06.011)
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre>
+        </pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre></pre>
+    </div>
+</div>
+
+Original Image
+![Original Image](images/cielo/cubo.jpg)
+
+Luminance maximization per pixel
+![Original Image](images/cielo/LumLMax.jpg)
+
+Luminance minimization per pixel
+![Original Image](images/cielo/LumLMin.jpg)
+
+
 ## Duality
 
 Casual android game published in the play store [link](https://play.google.com/store/apps/details?id=com.Delmogames.Duality) inspired by The Imposible Game and Geometry Dash. This was my first project as an under-graduated and my first project with Unity.
@@ -10,16 +42,6 @@ The game can be played [here](https://ferdelmo.itch.io/chess-thing)
 
 [Source Code](https://github.com/ferdelmo/ChessThing) (It's a game jam, so expect any kind of hacks there)
 
-## Polarization Mapping
-This is a project derived from my TFG in the Universidad de Zaragoza under the suppervision of Adolfo Muñoz. Our work ends up in an invetigation paper called **Polarization Mapping**, wich was presented in the Spanish Congress of Computer Graphics(CEIG2019). The paper was selected as **best paper of the Spanish Conference on Computer Graphics 2019 (CEIG2019)** and was **published through the Computers & Graphics** track of the Spanish Conference on Computer Graphics 2019 (CEIG2019).
-
-Our work present a method to edit image with polarized light, together with a capture method. The main idea of the work is to modify the polarization of an image as a post-process effect, simlarly to tone mapping with HDR. Our method allow different types of filters. First of all it allows to reproduce any polarizing filter existing in hardware and even create software filters that are hardly reproduce by hardware. We also present two kinds of filters to maximize (or minimize) different image parameters, luminance, saturation and contrast. These filters can be applied with two approach, global filters, that basically select the best linear polarizer to maximize that parameter. And local filters, that apply a different linear polarizer per pixel to maximize the parameter. The local approach generate results that are imposible to reproduce by hardware and allows intersting effects, like minimizing the reflects on any surface in the image.
-
-TODO: Add images
-
-[Project page](http://giga.cps.unizar.es/~amunoz/projects/CG2019_polarization/)
-
-[DOI](https://doi.org/10.1016/j.cag.2019.06.011)
 
 ## Windmill Engine
 This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. For now only small steps on the render engine are done. 
