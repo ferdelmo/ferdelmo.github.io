@@ -22,9 +22,10 @@ Our work present a method to edit image with polarized light, together with a ca
     </div>
 </div>
 
-## Duality
+## Windmill Engine
+This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. For now only small steps on the render engine are done. 
 
-Casual android game published in the play store [link](https://play.google.com/store/apps/details?id=com.Delmogames.Duality) inspired by The Imposible Game and Geometry Dash. This was my first project as an under-graduated and my first project with Unity.
+TODO: put images with renders from point lights and directional lights, normal mapping etc.
 
 ## Chess Thing
 
@@ -34,36 +35,13 @@ The game can be played [here](https://ferdelmo.itch.io/chess-thing)
 
 [Source Code](https://github.com/ferdelmo/ChessThing) (It's a game jam, so expect any kind of hacks there)
 
+## Duality
 
-## Windmill Engine
-This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. For now only small steps on the render engine are done. 
+Casual android game published in the play store [link](https://play.google.com/store/apps/details?id=com.Delmogames.Duality) inspired by The Imposible Game and Geometry Dash. This was my first project as an under-graduated and my first project with Unity.
 
-TODO: put images with renders from point lights and directional lights, normal mapping etc.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
+**Mail:** ferdelmo1996@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ferdelmo/ferdelmo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Tlf.:** +34 685 272 972
