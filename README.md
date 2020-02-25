@@ -1,4 +1,4 @@
-## Index
+## Projects
 -[**Polarization Mapping**](#polarization): a tool to edit images with polarized light. An investigation done with my end-of-degree project suppervisor, Adolfo Muñoz, presented in the Spanish Conference on Computer Graphics 2019 (CEIG2019).
 
 -[**Windmill Engine**](#windmill): a personal project to implement a game engine from scratch using **C++** and **Vulkan**.
@@ -13,7 +13,7 @@
 **Tlf.:** +34 685 272 972
 
 ## <a name="polarization"></a>Polarization Mapping
-This is a project derived from my end-of-degree project in the Universidad de Zaragoza under the suppervision of Adolfo Muñoz. Our work ended up in an invetigation paper called **Polarization Mapping**, wich was presented in the Spanish Congress of Computer Graphics(CEIG2019). The paper was selected as **best paper of the Spanish Conference on Computer Graphics 2019 (CEIG2019)** and was published through Computers & Graphics.
+This is a project derived from my end-of-degree project in the Universidad de Zaragoza under the suppervision of Adolfo Muñoz. Our work ended up in an invetigation paper called **Polarization Mapping**, which was presented in the Spanish Congress of Computer Graphics(CEIG2019). The paper was selected as **best paper of the Spanish Conference on Computer Graphics 2019 (CEIG2019)** and was published through Computers & Graphics.
 
 Our work present a method to edit images with polarized light, together with a capture method. The main idea of the work is to modify the polarization of an image as a post-process effect, simlarly to tone mapping with HDR. Our method allow different types of filters. First of all it allows to reproduce any polarizing filter existing in hardware and even create software filters that are hardly reproducible by hardware. We also present two kinds of filters to maximize (or minimize) different image parameters: luminance, saturation and contrast. These filters can be applied with two approach, global filters, that basically select the best linear polarizer to maximize that parameter. And local filters, that apply a different linear polarizer per pixel to maximize the parameter. The local approach generate results that are imposible to reproduce by hardware and allows intersting effects, like minimizing the reflects on any surface in the image.
 
@@ -63,7 +63,9 @@ TODO: put images with renders from point lights and directional lights, normal m
 
 ## <a name="chess-thing"></a>Chess Thing
 
-**Chess Thing** is a game made for the _2-Buttons Game Jam 2019_ wich has the restriction that the game need to be played and used with only 2 buttons (obiusly). In the game you control a pawn in an infinity chess table who had to advanced avoiding the other pieces that will attack you. It's time turn based  where you have three options, stay in the same position or advance one or two tiles.
+**Chess Thing** is a game made for the _2-Buttons Game Jam 2019_ which has the restriction that the game need to be played and used with only 2 buttons (obiusly). In the game you control a pawn in an infinity chess table who had to advanced avoiding the other pieces that will attack you. You have a limited time to do a move, that can be: stay still, advance one square or advance two. With this limited movement you have to advance all the square that you can. 
+
+One interesting thing done, taking into account the limited time of development (4 days) is the AI, which have three different difficulties, limiting the number of moves the AI can done, controling how many of the positions the player can go will threat, etc. 
 
 The game can be played [here](https://ferdelmo.itch.io/chess-thing)
 
@@ -71,4 +73,6 @@ The game can be played [here](https://ferdelmo.itch.io/chess-thing)
 
 ## <a name="duality"></a>Duality
 
-This was my first videogame project as an undergraduate. Is a small android game, inspired by The Impossible Game and Geometry Dash that basically put you in control of two squares instead of one, raising the difficulty. The game is published in Google Play ([link](https://play.google.com/store/apps/details?id=com.Delmogames.Duality)).
+This was my first videogame project as an undergraduate. Is a small android game, inspired by The Impossible Game and Geometry Dash that basically put you in control of two squares instead of one, raising the difficulty. It was my first experience with Unity, which I have been using since 2015/2016 to do some other personal projects that ends up unfinished, a couple of game jams and also in my internship in Padaone Games.
+
+The game is published in Google Play ([link](https://play.google.com/store/apps/details?id=com.Delmogames.Duality)).
