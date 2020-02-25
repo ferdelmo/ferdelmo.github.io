@@ -1,4 +1,3 @@
-
 ## Polarization Mapping
 This is a project derived from my TFG in the Universidad de Zaragoza under the suppervision of Adolfo Muñoz. Our work ends up in an invetigation paper called **Polarization Mapping**, wich was presented in the Spanish Congress of Computer Graphics(CEIG2019). The paper was selected as **best paper of the Spanish Conference on Computer Graphics 2019 (CEIG2019)** and was **published through the Computers & Graphics** track of the Spanish Conference on Computer Graphics 2019 (CEIG2019).
 
@@ -10,25 +9,24 @@ Our work present a method to edit image with polarized light, together with a ca
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <h2>Good</h2>
+        <h2>Original image</h2>
         <pre>
+            <img src="images/cielo/cubo.jpg">
         </pre>
     </div>
     <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre></pre>
+        <h2>Luminance maximization per pixel</h2>
+        <pre>
+            <img src="images/cielo/LumLMax.jpg">
+        </pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Luminance maximization per pixel</h2>
+        <pre>
+            <img src="images/cielo/LumLMin.jpg">
+        </pre>
     </div>
 </div>
-
-Original Image
-![Original Image](images/cielo/cubo.jpg)
-
-Luminance maximization per pixel
-![Original Image](images/cielo/LumLMax.jpg)
-
-Luminance minimization per pixel
-![Original Image](images/cielo/LumLMin.jpg)
-
 
 ## Duality
 
