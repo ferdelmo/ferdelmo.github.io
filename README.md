@@ -7,7 +7,7 @@ Our work present a method to edit image with polarized light, together with a ca
 
 [DOI](https://doi.org/10.1016/j.cag.2019.06.011)
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div class="column">
         <h3>Original image</h3>
         <img src="images/cielo/cubo.jpg">
