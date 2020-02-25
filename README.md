@@ -8,23 +8,17 @@ Our work present a method to edit image with polarized light, together with a ca
 [DOI](https://doi.org/10.1016/j.cag.2019.06.011)
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Original image</h2>
-        <pre>
-            <img src="images/cielo/cubo.jpg">
-        </pre>
+    <div class="column">
+        <h3>Original image</h3>
+        <img src="images/cielo/cubo.jpg">
     </div>
-    <div style="display: inline-block;">
-        <h2>Luminance maximization per pixel</h2>
-        <pre>
-            <img src="images/cielo/LumLMax.jpg">
-        </pre>
+    <div class="column">
+        <h3>Luminance maximization per pixel</h3>
+        <img src="images/cielo/LumLMax.jpg">
     </div>
-    <div style="display: inline-block;">
-        <h2>Luminance maximization per pixel</h2>
-        <pre>
-            <img src="images/cielo/LumLMin.jpg">
-        </pre>
+    <div class="column">
+        <h3>Luminance maximization per pixel</h3>
+        <img src="images/cielo/LumLMin.jpg">
     </div>
 </div>
 
