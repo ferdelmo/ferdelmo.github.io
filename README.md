@@ -1,7 +1,10 @@
 ## Index
 -[**Polarization Mapping**](#polarization): a tool to edit images with polarized light. An investigation done with my end-of-degree project suppervisor, Adolfo Muñoz, presented in the Spanish Conference on Computer Graphics 2019 (CEIG2019).
+
 -[**Windmill Engine**](#windmill): a personal project to implement a game engine from scratch using **C++** and **Vulkan**.
+
 -[**Chess Thing**](#chess-thing): a game for the _2-Buttons Game Jam 2019_ made with Unity.
+
 -[**Duality**](#duality): my first videogame in unity done while I was on my second degree year
 
 ### Contact
