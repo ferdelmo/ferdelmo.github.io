@@ -22,6 +22,25 @@ Our work present a method to edit image with polarized light, together with a ca
     </div>
 </div>
 
+<div style="-webkit-column-count: 4; -moz-column-count: 4; column-count: 4; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div class="column">
+        <img src="images/coche1/I.jpg">
+        <figcaption>Original image</figcaption>
+    </div>
+    <div class="column">
+        <img src="images/coche1/LumLMax.jpg">
+        <figcaption>Luminance maximization per pixel</figcaption>
+    </div>
+    <div class="column">
+        <img src="images/coche1/LumLMin.jpg">
+        <figcaption>Luminance minimization per pixel</figcaption>
+    </div>
+    <div class="column">
+        <img src="images/coche1/minLateralMaxFront.jpg">
+        <figcaption>Image edited with our brush based tool</figcaption>
+    </div>
+</div>
+
 ## Windmill Engine
 This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. For now only small steps on the render engine are done. 
 
