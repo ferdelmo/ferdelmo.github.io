@@ -3,7 +3,7 @@
 
 -[**Windmill Engine**](#windmill): a personal project to implement a game engine from scratch using **C++** and **Vulkan**.
 
--[**Nehan**](#nehan): master final project in progress. Working together with a team of students of different areas, programmers, designers, artits, producers and marketing people.
+-[**Nehan**](#nehan): a game develop as my master final project (still in progress). Working together with a team of students of different areas, programmers, designers, artists, producers and marketing people.
 
 -[**Chess Thing**](#chess-thing): a game for the _2-Buttons Game Jam 2019_ made with Unity.
 
