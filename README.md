@@ -3,6 +3,8 @@
 
 -[**Windmill Engine**](#windmill): a personal project to implement a game engine from scratch using **C++** and **Vulkan**.
 
+-[**Nehan**](#nehan): master final project in progress. Working together with a team of students of different areas, programmers, designers, artits, producers and marketing people.
+
 -[**Chess Thing**](#chess-thing): a game for the _2-Buttons Game Jam 2019_ made with Unity.
 
 -[**Duality**](#duality): my first videogame in unity done while I was on my second degree year
@@ -57,9 +59,12 @@ A small sample of the results obtainable with our application can be seen below.
 </div>
 
 ## <a name="windmill"></a>Windmill Engine
-This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. For now only small steps on the render engine are done. 
+This is my personal project of doing a videogame engine from scratch using vulkan as graphics API. It is still in its first steps, and currently working on the render engine with vulkan. Basic features like render meshes, lighting without shadows, and the separation between the main loop and the render thread are implemented.
 
-TODO: put images with renders from point lights and directional lights, normal mapping etc.
+[Repository](https://github.com/ferdelmo/WindmillEngine)
+
+## <a name="nehan"></a> Nehan ##
+This is my master final project that is being developed together with a team of students from different areas. We are using Unreal Engine 4 as our main deveop tool. For now we can't show nothing of the game until we pass some university milestones.
 
 ## <a name="chess-thing"></a>Chess Thing
 
