@@ -64,7 +64,7 @@ This is my personal project of doing a videogame engine from scratch using vulka
 [Repository](https://github.com/ferdelmo/WindmillEngine)
 
 ## <a name="nehan"></a> Nehan ##
-This is my master final project that is being developed together with a team of students from different areas. We are using Unreal Engine 4 as our main deveop tool. For now we can't show nothing of the game until we pass some university milestones.
+This is my master final project that is being developed together with a team of students from different areas. We are using Unreal Engine 4 as our main development tool. For now we can't show nothing of the game until we pass some university milestones.
 
 ## <a name="chess-thing"></a>Chess Thing
 
