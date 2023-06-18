@@ -68,6 +68,7 @@ This is my master's degree final project that was developed together with a team
 I had the opportunity to work on multiple features of the game, highlighting the custom movement system of the player character, building the path finder and path following algorithms of different enemies, the camera system, including the third-person camera and the camera transition system to build cinematics, and the different abilities from the character, that can slow time and reverse it.
 
 [Trailer of the game](https://github.com/ferdelmo/WindmillEngine)
+The game was presented to the Playstation Talent program.
 
 ## <a name="chess-thing"></a>Chess Thing
 
